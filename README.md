@@ -24,7 +24,7 @@
 
 ## 📸 Preview
 
-![TownScape UI Preview](./preview.png)
+![TownScape UI Preview](./Preview.png)
 
 > A clean and engaging social layout built for modern web interfaces.
 
